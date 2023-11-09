@@ -1,0 +1,13 @@
+# dont track output files
+*.png
+*.jpg
+*.jpeg
+
+
+################
+# editor files #
+################
+
+# emacs
+*.~
+\#*\#
